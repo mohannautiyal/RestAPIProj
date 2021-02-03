@@ -11,7 +11,7 @@ public class WelcomeController {
 	@GetMapping(value="/")
 	public String welcomeEmp() {
 		
-		return "Welcome to Madan's Home Page . Sample App for CI/CD v1.";
+		return "Welcome to Madan's Home Page . Sample App for CI/CD v2.";
 	}
 
 }
